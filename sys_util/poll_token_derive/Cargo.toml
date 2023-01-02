@@ -1,15 +1,3 @@
-[package]
-name = "poll_token_derive"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-include = ["*.rs", "Cargo.toml"]
-
-[lib]
-proc-macro = true
-path = "poll_token_derive.rs"
-
-[dependencies]
-proc-macro2 = "^1"
-quote = "^1"
-syn = "^1"
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9f0ebbe34cc455bb479e17ba0c73d78f1c6a6287a49596573e3479d5cce2aa7
+size 257

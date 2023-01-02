@@ -1,8 +1,3 @@
-[package]
-name = "assertions"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-include = ["src/**/*", "Cargo.toml"]
-
-[workspace]
+version https://git-lfs.github.com/spec/v1
+oid sha256:140d52982b05d64a58827e646bfb3a330b5baa5dc733cd77ddc069451eda6850
+size 153

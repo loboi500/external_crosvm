@@ -1,8 +1,3 @@
-# VM Tools
-
-The scripts in this directory are used to make it easier to work with the test
-VM.
-
-The VM is expected to be accessible via `ssh vm` without a password prompt, this
-is set up by the builders, so it'll work out-of-the-box when running inside the
-builder shell.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2233cc5ccabe350940ededaf255ef94d3d0728752075c68e0ab8a418b859c48
+size 272

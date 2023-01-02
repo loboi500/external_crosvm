@@ -1,15 +1,3 @@
-[package]
-name = "vm_memory"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-include = ["src/**/*", "Cargo.toml"]
-
-[dependencies]
-cros_async = { path = "../cros_async" } # provided by ebuild
-data_model = { path = "../data_model" } # provided by ebuild
-libc = "*"
-base = { path = "../base" } # provided by ebuild
-bitflags = "1"
-
-[workspace]
+version https://git-lfs.github.com/spec/v1
+oid sha256:56f4b455a73a1f12c6e4e2775671c90decf62b018aacf85d94aa376d5093cfcf
+size 365

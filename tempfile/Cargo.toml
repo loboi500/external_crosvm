@@ -1,8 +1,3 @@
-[package]
-name = "tempfile"
-version = "3.0.7"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[dependencies]
-libc = "*"
+version https://git-lfs.github.com/spec/v1
+oid sha256:4100f0663210758f5f062f5bc593b4cd9723964d211dacd1a6c7e67dc002d982
+size 128

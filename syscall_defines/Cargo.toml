@@ -1,10 +1,3 @@
-[package]
-name = "syscall_defines"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-include = ["src/**/*", "Cargo.toml"]
-
-[dependencies]
-
-[workspace]
+version https://git-lfs.github.com/spec/v1
+oid sha256:be7bc78902a4da564d5524a8d90be45f6fd17ab3fc41457ce95b169705a08fc7
+size 174

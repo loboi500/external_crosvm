@@ -1,8 +1,3 @@
-[package]
-name = "vfio_sys"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[dependencies]
-base = { path = "../base" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:282a6a347004bdd2e69ce9d68f74c3c2e2bdf1ba5971ced3906421467fc7783a
+size 145

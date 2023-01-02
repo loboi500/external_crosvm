@@ -1,8 +1,3 @@
-[package]
-name = "bit_field"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[dependencies]
-bit_field_derive = { path = "bit_field_derive" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc98535db33c647b302f6f18b7294c1593421a945d46245c428871e14bed4678
+size 167

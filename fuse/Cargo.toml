@@ -1,16 +1,3 @@
-[package]
-name = "fuse"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[lib]
-path = "src/lib.rs"
-
-[dependencies]
-base = { path = "../base" }
-bitflags = "1"
-data_model = { path = "../data_model" }
-enumn = { path = "../enumn" }
-libc = "*"
-thiserror = "1.0.20"
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aea823c04af670937a1493f78f47aea39f62845030e572f30353ab54e12439c
+size 285

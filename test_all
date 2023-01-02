@@ -1,9 +1,3 @@
-#!/bin/bash
-# Copyright 2021 The Chromium OS Authors. All rights reserved.
-# Use of this source code is governed by a BSD-style license that can be
-# found in the LICENSE file.
-#
-# Runs tests for both x86 and aarch64.
-
-time ./ci/builder --vm ./run_tests &&
-    time ./ci/aarch64_builder --vm ./run_tests
+version https://git-lfs.github.com/spec/v1
+oid sha256:84254b9b16a2112ec131627228c023f7198be3e5c477cfb64b13338ddf3b8b7a
+size 304

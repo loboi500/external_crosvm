@@ -1,13 +1,3 @@
-[package]
-name = "vhost"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[dependencies]
-assertions = { path = "../assertions" }
-libc = "*"
-net_util = { path = "../net_util" }
-base = { path = "../base" }
-virtio_sys = { path = "../virtio_sys" }
-vm_memory = { path = "../vm_memory" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d7490381f6473a85d13b083acea938e75fbf0e5c470cb8c0713b4fd61467112
+size 307

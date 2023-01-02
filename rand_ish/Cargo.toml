@@ -1,5 +1,3 @@
-[package]
-name = "rand_ish"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
+version https://git-lfs.github.com/spec/v1
+oid sha256:14e3b9e179386f18a458854aca806d88fa03df4e2caa9dc721e904a0157520bb
+size 101

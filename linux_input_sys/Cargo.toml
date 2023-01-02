@@ -1,10 +1,3 @@
-[package]
-name = "linux_input_sys"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[dependencies]
-data_model = { path = "../data_model" }
-libc = "*"
-base = { path = "../base" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ff81da233859bbdd0ddc1e68934d29f220980d097e1f2045196e8e74b4ab611
+size 203

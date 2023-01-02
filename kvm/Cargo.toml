@@ -1,13 +1,3 @@
-[package]
-name = "kvm"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[dependencies]
-data_model = { path = "../data_model" }
-kvm_sys = { path = "../kvm_sys" }
-libc = "*"
-base = { path = "../base" }
-sync = { path = "../sync" }
-vm_memory = { path = "../vm_memory" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:14a4dbd1e6096b7cade2cdac40e0eb92c84338effa38418e4c6be89f4ea9d099
+size 291

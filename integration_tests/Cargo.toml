@@ -1,13 +1,3 @@
-[package]
-name = "integration_tests"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[dev-dependencies]
-tempfile = { path = "../tempfile" }
-crosvm = { path = ".." }
-arch = { path = "../arch" }
-base = "*"
-libc = "0.2.65"
-anyhow = "*"
+version https://git-lfs.github.com/spec/v1
+oid sha256:de0f444189b732f3198c75a7f58ac10f44c0d16e1d81f80dfbada69686757ae5
+size 259

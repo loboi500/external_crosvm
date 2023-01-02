@@ -1,13 +1,3 @@
-[package]
-name = "enumn"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[lib]
-proc-macro = true
-
-[dependencies]
-proc-macro2 = "^1"
-quote = "^1"
-syn = "^1"
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4af70be8a87633ac67e8e27d03b0297180828ccec11a20a074db27491b41e5b
+size 182

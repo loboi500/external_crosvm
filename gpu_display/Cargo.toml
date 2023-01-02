@@ -1,17 +1,3 @@
-[package]
-name = "gpu_display"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[features]
-x = []
-
-[dependencies]
-data_model = { path = "../data_model" }
-libc = "*"
-base = { path = "../base" }
-linux_input_sys = { path = "../linux_input_sys" }
-
-[build-dependencies]
-cc = "=1.0.25"
+version https://git-lfs.github.com/spec/v1
+oid sha256:651da1c7118fe3beb9c96c81c8bcd4015444eceae058461930f48497ce9c1b1a
+size 305

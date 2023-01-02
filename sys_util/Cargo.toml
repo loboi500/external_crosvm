@@ -1,23 +1,3 @@
-[package]
-name = "sys_util"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-include = ["src/**/*", "Cargo.toml"]
-
-[dependencies]
-data_model = { path = "../data_model" } # provided by ebuild
-libc = "*"
-poll_token_derive = { version = "*", path = "poll_token_derive" }
-serde = { version = "1", features = [ "derive" ] }
-serde_json = "1"
-sync = { path = "../sync" } # provided by ebuild
-tempfile = { path = "../tempfile" } # provided by ebuild
-
-[target.'cfg(target_os = "android")'.dependencies]
-android_log-sys = "0.2"
-
-[features]
-chromeos = []
-
-[workspace]
+version https://git-lfs.github.com/spec/v1
+oid sha256:21be6a62ef4bdcb7072ed00226bfee6e301fd6645a864dd334568a6b2188441c
+size 581

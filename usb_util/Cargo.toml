@@ -1,13 +1,3 @@
-[package]
-name = "usb_util"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[dependencies]
-assertions = { path = "../assertions" }
-data_model = { path = "../data_model" }
-libc = "*"
-remain = "*"
-base = { path = "../base" }
-usb_sys = { path = "../usb_sys" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d355845446676b7f858a23b5e7b5059d51ad638287103df28603e39cecdcf2b
+size 283

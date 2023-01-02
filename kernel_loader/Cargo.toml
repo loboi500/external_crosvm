@@ -1,10 +1,3 @@
-[package]
-name = "kernel_loader"
-version = "0.1.0"
-edition = "2018"
-
-[dependencies]
-libc = "*"
-base = { path = "../base" }
-tempfile = "*"
-vm_memory = { path = "../vm_memory" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:d80ba18a1a3234502fbd925641cc75db52e717486b50cbea4ad8131621a6b471
+size 176

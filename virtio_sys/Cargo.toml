@@ -1,8 +1,3 @@
-[package]
-name = "virtio_sys"
-version = "0.1.0"
-authors = ["The Chromium OS Authors"]
-edition = "2018"
-
-[dependencies]
-base = { path = "../base" }
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d1c397d3f2aa0f18cbcb625e7f9233c0fb5902398daf890da709c0b068bc234
+size 147
